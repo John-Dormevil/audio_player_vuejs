@@ -1,3 +1,7 @@
+# Audio player vuejs
+Simple Audio player implement in vuejs
+
+
 # soundmanager-ui
 
 > A Vue.js project
